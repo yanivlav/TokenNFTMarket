@@ -36,7 +36,7 @@ yarn chain
 
 ```
 
-> Go back to the first terminal, deploy all the things and start your 📱 frontend:
+> Go back to the first terminal, deploy all contracts and start your 📱 frontend:
 
 ```bash
 
