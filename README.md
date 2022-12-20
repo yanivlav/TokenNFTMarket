@@ -52,7 +52,7 @@ Your artwork from `artwork.json` (if uploaded and deployed correctly) should sho
 
 ![image](https://user-images.githubusercontent.com/22189126/181051065-eba932dd-b0f4-436e-ac8e-f782718f34b3.png)
 
-Add your token to metamask by copying it from here:
+Add your token address to metamask by copying it from here:
 ![image](https://user-images.githubusercontent.com/22189126/180666563-9e40d072-6a2f-418b-90ec-59fd92485533.png)
 
 Use the YourToken tab and buy some tokens {token price is static (100YBC = 1ETH) }:
