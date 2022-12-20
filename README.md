@@ -13,7 +13,7 @@ Required: [Git](https://git-scm.com/downloads), [Node](https://nodejs.org/dist/l
 > Open a new folder and run:
 ```bash
 
-git clone https://github.com/BarDAP/VendorTokenNFT.git
+git clone https://github.com/yanivlav/TokenNFTMarket.git
 
 yarn
 ```
